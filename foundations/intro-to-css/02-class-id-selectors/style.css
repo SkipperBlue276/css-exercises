@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+p {
+    background-color: lightcoral;
+    font-family:'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+p#num3 {
+    font-size: 24px;
+}
+#num2 {
+    color: blue;
+
+}
+#num4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
